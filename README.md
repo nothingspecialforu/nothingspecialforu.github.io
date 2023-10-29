@@ -4,7 +4,7 @@
 
 ### EvtPsst
 Blogartikel:
-[EvtPsst - Tamper with the eventlog without OpenProcess Event](https://nothingspecialforu.io/EvtPsstBlog)
+[EvtPsst - Tamper with the eventlog without OpenProcess Event](https://nothingspecialforu.github.io/EvtPsstBlog)
 
 Tool:
 [EvtPsst](https://github.com/nothingspecialforu/EvtPsst)
